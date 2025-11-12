@@ -1,10 +1,12 @@
 # Практическая работа №2 Свидовский М.А ЭФМО-01-21  
 ## 1. Структура проекта:	
-<img width="618" height="362" alt="изображение" src="https://github.com/user-attachments/assets/eeede5dd-4900-45a4-a0ff-8913a0094b6f" />
+<img width="294" height="348" alt="image" src="https://github.com/user-attachments/assets/5b17a7d4-fb12-44da-a123-0e6259b2b01b" />
+
+
 
 ### cmd/myapp - Основное приложение 
 ### internal/ - Внутренние пакеты с обработчиками
-### utils - Внутренние пакеты с "логами" и "пингом"
+### utils - Внутренние пакеты (логи и обработчик ошибок) 
 ### go.mod - Файл зависимостей 
 
 ## 2. Запуск сервера и логи терминала:
